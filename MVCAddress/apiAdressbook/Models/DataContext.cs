@@ -1,6 +1,4 @@
-﻿
-
-namespace apiAdressbook.Models
+﻿namespace apiAdressbook.Models
 {
     using System.Data.Entity;
 
